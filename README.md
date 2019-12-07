@@ -44,7 +44,7 @@ Supported applications
 <br>**3.5.7, 3.6.9, 3.7.4**
 
 - Supported test frameworks
-<br>**unittest, pytest, nose**
+<br>**unittest, pytest, nose2**
 
 - Package managers
 <br>**Pip**
