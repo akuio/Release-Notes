@@ -10,6 +10,8 @@ Not available in this release
 
 ### Integration with customer’s infrastructure
 
+
+
 #### Amazon Web Services (AWS)
 - Using IAM Role with specific permissions granted to aku.io to provision and configure specific types of resources
 
